@@ -1,0 +1,11 @@
+/Users/GarrettFreshwater/workspace/csharp/exercises/flower-shop/obj/Debug/netcoreapp3.1/flower-shop.csprojAssemblyReference.cache
+/Users/GarrettFreshwater/workspace/csharp/exercises/flower-shop/obj/Debug/netcoreapp3.1/flower-shop.AssemblyInfoInputs.cache
+/Users/GarrettFreshwater/workspace/csharp/exercises/flower-shop/obj/Debug/netcoreapp3.1/flower-shop.AssemblyInfo.cs
+/Users/GarrettFreshwater/workspace/csharp/exercises/flower-shop/bin/Debug/netcoreapp3.1/flower-shop
+/Users/GarrettFreshwater/workspace/csharp/exercises/flower-shop/bin/Debug/netcoreapp3.1/flower-shop.deps.json
+/Users/GarrettFreshwater/workspace/csharp/exercises/flower-shop/bin/Debug/netcoreapp3.1/flower-shop.runtimeconfig.json
+/Users/GarrettFreshwater/workspace/csharp/exercises/flower-shop/bin/Debug/netcoreapp3.1/flower-shop.runtimeconfig.dev.json
+/Users/GarrettFreshwater/workspace/csharp/exercises/flower-shop/bin/Debug/netcoreapp3.1/flower-shop.dll
+/Users/GarrettFreshwater/workspace/csharp/exercises/flower-shop/bin/Debug/netcoreapp3.1/flower-shop.pdb
+/Users/GarrettFreshwater/workspace/csharp/exercises/flower-shop/obj/Debug/netcoreapp3.1/flower-shop.dll
+/Users/GarrettFreshwater/workspace/csharp/exercises/flower-shop/obj/Debug/netcoreapp3.1/flower-shop.pdb
