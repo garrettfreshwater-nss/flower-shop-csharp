@@ -1,21 +1,19 @@
 using System.Collections.Generic;
 namespace flower_shop
 {
-    public class Snapdragon
+    public class Snapdragon : IBirthDay
     {
         public string Color { get; set; }
         public string Name { get; set; }
         public string Type { get; set; }
         public double Cost { get; set; }
         public string WaterSchedule { get; set; }
-
         public bool Thorny { get; set; }
-
         public bool Fragrant { get; set; }
 
         public override string ToString()
         {
-            return $"A Fanciful {Color} rose with that costs ${Cost}!";
+            return $"A Fanciful {Color} Snapdragon with that costs ${Cost}!";
         }
 
         // The collection of exercises that the student is currently working on

@@ -9,5 +9,14 @@ namespace flower_shop
         public List<Snapdragon> Snapdragons = new List<Snapdragon>();
         public List<Sunflower> Sunflowers = new List<Sunflower>();
 
+        public MakeMothersDayArrangement()
+        {
+
+        }
+        public MakeBirthdayDayArrangement()
+        {
+
+        }
+
     }
 }

@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 namespace flower_shop
 {
-    public class Lilly
+    public class Lilly : IMothersDay
     {
         public string Name { get; set; }
         public string Type { get; set; }
@@ -13,7 +13,7 @@ namespace flower_shop
 
         public override string ToString()
         {
-            return $"A Fanciful {Color} rose with that costs ${Cost}!";
+            return $"A Fanciful {Name} Lilly with that costs ${Cost}!";
         }
 
         // The collection of exercises that the student is currently working on

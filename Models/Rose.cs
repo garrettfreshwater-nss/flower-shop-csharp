@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 namespace flower_shop
 {
-    public class Rose
+    public class Rose : IMothersDay
     {
         public string Name { get; set; }
         public string Type { get; set; }
