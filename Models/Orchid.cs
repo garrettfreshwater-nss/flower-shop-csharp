@@ -1,8 +1,9 @@
 using System.Collections.Generic;
 namespace flower_shop
 {
-    public class Orchid : IMothersDay
+    public class Orchid : IGetWell
     {
+        public string Color { get; set; }
         public string Name { get; set; }
         public string Type { get; set; }
 

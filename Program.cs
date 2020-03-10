@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace flower_shop
 {
@@ -12,7 +13,8 @@ namespace flower_shop
             Snapdragon fallenDragon = new Snapdragon();
             Sunflower sillySnapdragon = new Sunflower();
 
-            // Rose myRose = new Rose("Swisha", "Rose", 35, "Bi-Daily", 30, true, true);
+            FlowerShop GarrettsFlowerShop = new FlowerShop();
+            List<IBirthDay> Arrangement = GarrettsFlowerShop.MakeBirthdayDayArrangement();
 
             Console.WriteLine(darkBlueRose);
         }
