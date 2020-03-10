@@ -12,7 +12,7 @@ namespace flower_shop
             Snapdragon fallenDragon = new Snapdragon();
             Sunflower sillySnapdragon = new Sunflower();
 
-            // Rose myRose = new Rose("Red", "Swisha", "Rose", 35, "Bi-Daily", true, true);
+            // Rose myRose = new Rose("Swisha", "Rose", 35, "Bi-Daily", 30, true, true);
 
             Console.WriteLine(darkBlueRose);
         }
